@@ -4,3 +4,4 @@ __pycache__/
 .env
 .pytest_cache/
 screenshots/
+.prompts/system_prompt.txt
